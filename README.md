@@ -1,0 +1,1 @@
+Data collected on patients in the ED at UW Medicine from 2022-2023 are used to explore what factors increase risk of arrhythmia among patients that were administered droperidol. 
